@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="searchbar_hint">Cari user</string>
+    <string name="username">Username</string>
+    <string name="bio_text">Bio Pengguna</string>
+    <string name="user_name">nama lengkap</string>
+    <string name="nickname">Nickname</string>
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="background">background</string>
+    <string name="floating_button">floating button</string>
+    <string name="setting">Settings</string>
+    <string name="favusers">favusers</string>
+    <string name="dark_mode">Dark Mode  </string>
+    <string name="name">by Frisnadi.</string>
+    <string name="github_user_app">Github User App</string>
+</resources>
